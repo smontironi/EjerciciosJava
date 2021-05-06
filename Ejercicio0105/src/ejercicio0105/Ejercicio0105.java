@@ -1,6 +1,6 @@
 /*
- * Pediremos do snotas enteras y calcularemos la media. Con la media puede
- * tener decimales utilizaremos una viariable de tipo real.
+ * Pediremos dos notas enteras y calcularemos la media. Con la media puede
+ * tener decimales utilizaremos una variable de tipo real.
  */
 package ejercicio0105;
 import java.util.Scanner;
