@@ -20,11 +20,11 @@ public class Ejercicio0106 {
         nota1 = sc.nextInt();
         System.out.println("Nota 2: ");
         nota2 = sc.nextInt();
-        System.out.println("Nota : ");
+        System.out.println("Nota 3: ");
         nota3 = sc.nextInt();
         
         //calculamos la media
-        media = (int) ((nota1 + nota2) / 3.0); //convertimos un valor 
+        media = (int) ((nota1 + nota2 + nota3) / 3.0); //convertimos un valor 
         // double en un valor real, truncando la parte decimal. 
         // Por lo tanto, hay perdida de informacion.
         
