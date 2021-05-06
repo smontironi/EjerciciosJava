@@ -33,8 +33,7 @@ public class Ejercicio0107 {
         // obligamos a aplicar un cast (int). En caso de no hacerlo el
         // compilador generara un error.
         System.out.println(n + " redondeado es: " + redondeo);
-        
-        
+                
     }
     
 }
