@@ -33,8 +33,7 @@ public class Ejercicio0109 {
         
         System.out.print("Precio del kilo de peras: ");
         precioPeras = sc.nextDouble();
-        
-              
+                      
         System.out.println("Para las manzanas :");
         System.out.print("Ventas (en kilos) del primer trimestre: ");
         vManza1t = sc.nextInt();
