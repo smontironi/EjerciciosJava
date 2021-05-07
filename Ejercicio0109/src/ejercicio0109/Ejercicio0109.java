@@ -58,7 +58,7 @@ public class Ejercicio0109 {
         impTotal = (vManza1t + vManza2t + vManza3t + vManza4t) * precioManzanas;
         impTotal += (vPeras1t + vPeras2t + vPeras3t + vPeras4t) * precioPeras;
         
-        System.out.println("El importe total es de: " + impTotal + " euros");
+        System.out.println("El importe total es de : " + impTotal + " euros");
     }
     
 }
