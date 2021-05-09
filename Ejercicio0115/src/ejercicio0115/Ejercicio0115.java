@@ -35,7 +35,7 @@ public class Ejercicio0115 {
         System.out.println("Escriba el valor de x: ");
         x = sc.nextDouble();
         
-        y = a *Math.pow(x, 2) + b*x + x;
+        y = a *Math.pow(x, 2) + b*x + c;
         
         System.out.println("El valor de 1 es: " + y);
     }
