@@ -36,7 +36,7 @@ public class Ejercicio0117 {
         System.out.println("Escriba la distancia en metros: ");
         metros = sc.nextDouble();
         
-        milimetroEnCentimetros = milimetros*10;
+        milimetroEnCentimetros = milimetros*100;
         
         metroEnCentimetros = metros/100;
         
