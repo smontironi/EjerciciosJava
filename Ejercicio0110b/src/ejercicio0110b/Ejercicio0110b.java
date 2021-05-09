@@ -30,7 +30,7 @@ public class Ejercicio0110b {
         radio = sc.nextDouble();
         
         longitud = 2 * Math.PI * radio; //la clase MAth pertenece al paquete
-        // java.lag qie s eimporta por defecto
+        // java.lag que se importa por defecto
         area = Math.PI * Math.pow(radio, 2); //Math.pow (base, exponente) eleva la base
         //al exponente utilizado. Math.pow(radio, 2) eleva el radio a 2 (al cuadrado) 
         
