@@ -30,7 +30,7 @@ public class Ejercicio0115 {
         a = sc.nextDouble();
         System.out.println("Escriba el valor de b: ");
         b = sc.nextDouble();
-        System.out.println("Escriba el valor de c:: ");
+        System.out.println("Escriba el valor de c: ");
         c = sc.nextDouble();
         System.out.println("Escriba el valor de x: ");
         x = sc.nextDouble();
