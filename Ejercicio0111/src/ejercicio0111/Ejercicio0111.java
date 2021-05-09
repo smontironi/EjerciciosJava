@@ -19,7 +19,7 @@ public class Ejercicio0111 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        double baseImponible, montoTotal,iva, ivaCoef, ivaMonto;
+        double baseImponible, montoTotal, iva, ivaCoef, ivaMonto;
                 
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.US);
