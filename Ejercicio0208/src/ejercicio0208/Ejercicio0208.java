@@ -49,8 +49,8 @@ public class Ejercicio0208 {
 	System.out.println("Solucion 1: "+ x1);
 	System.out.println("Solucion 2: "+ x2);
 				
-			}
-		}
+	}
+	}
     }
     
 }
