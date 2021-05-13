@@ -19,7 +19,9 @@ public class Ejercicio0211a {
 		
 	System.out.println("Introduzca una nota :");
 	nota = sc.nextInt();
-		
+	
+        //en el libro usa && pero no fundiona, al usar || si
+        
 	if (nota <= 0 || nota < 5) { //se podria usar nota <= 0 || nota <= 4
             System.out.println("Nota insuficiente");
 	} else if (nota == 5) { 
