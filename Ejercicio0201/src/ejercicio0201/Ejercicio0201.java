@@ -1,5 +1,5 @@
 /*
-* Vamos a introducir por teclado un numero (entero). Para distinguir si es pas o
+* Vamos a introducir por teclado un numero (entero). Para distinguir si es par o
 * impar comprobamos el resto de dividir por 2.
 */
 package ejercicio0201;
