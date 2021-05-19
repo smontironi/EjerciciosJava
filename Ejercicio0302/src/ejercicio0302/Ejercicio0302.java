@@ -45,6 +45,8 @@ public class Ejercicio0302 {
         //mostramos el informe estadistico
         System.out.println("Suma de todas las edades: "+ sumaEdades);
         System.out.println("Media: " + media);
+        System.out.println("Número total de alumnos: " + contadorAlumnos);
+        System.out.println("Mayores de edad: " + contadorMayorEdad);
     }
     
 }
