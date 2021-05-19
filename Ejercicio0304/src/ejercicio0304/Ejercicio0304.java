@@ -29,5 +29,4 @@ public class Ejercicio0304 {
             System.out.println(i); //mostramos i
         }
     }
-    
 }
