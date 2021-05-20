@@ -16,7 +16,7 @@ public class Ejercicio0308 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //podriamos declarar log factorial, pero con una variable  de tipo long se puede
-        //calcar hasta el factorial de 25. Mejor utilizaremos un double
+        //calcular hasta el factorial de 25. Mejor utilizaremos un double
         double factorial;
         int num;
         
