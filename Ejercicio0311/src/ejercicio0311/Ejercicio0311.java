@@ -22,7 +22,7 @@ public class Ejercicio0311 {
             for (int i = 1; i<=10; i++){
 		System.out.println(tabla + " x " + i  + " = " + tabla * i);
 	}
-			}
+	}
     }
     
 }
