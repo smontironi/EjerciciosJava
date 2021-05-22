@@ -21,7 +21,7 @@ public class Ejercicio0311 {
             //por cada iteracion del bucle enterior, el interior se ejecuta 10 veces
             for (int i = 1; i<=10; i++){
 		System.out.println(tabla + " x " + i  + " = " + tabla * i);
-	}
+            }
 	}
     }
     
