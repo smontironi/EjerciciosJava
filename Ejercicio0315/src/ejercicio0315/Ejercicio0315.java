@@ -47,5 +47,4 @@ public class Ejercicio0315 {
         System.out.println("De 1 a " + n + ", hay " + contadorPrimos + " numeros primos");
     }
         
-    
 }
