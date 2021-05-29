@@ -26,7 +26,6 @@ public class Ejercicio0411a {
             res = res * a; //multiplicamos
             }
 	}
-		
 	return (res);
     }
     
@@ -43,5 +42,4 @@ public class Ejercicio0411a {
 	double res = aElevadoN(base, exp);
 	System.out.println(base + " elevado a " + exp + " = " + res);
     }
-    
 }
