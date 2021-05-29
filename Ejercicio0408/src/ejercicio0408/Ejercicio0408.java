@@ -50,7 +50,7 @@ public class Ejercicio0408 {
             }
 	}
 	return (cont);
-	}
+    }
     
     public static void main(String[] args) {
         System.out.println("Divisores de 24: " + numDivisoresPrimos(24));
